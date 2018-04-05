@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/OSPanel/domains/localhost/elib/app/BookUser.php</file>
+            <file>file:/C:/OSPanel/domains/localhost/elib/resources/views/user/user_books.blade.php</file>
+            <file>file:/C:/OSPanel/domains/localhost/elib/app/Book.php</file>
+            <file>file:/C:/OSPanel/domains/localhost/elib/routes/web.php</file>
+            <file>file:/C:/OSPanel/domains/localhost/elib/app/Http/Controllers/UserController.php</file>
+            <file>file:/C:/OSPanel/domains/localhost/elib/resources/views/take.blade.php</file>
+            <file>file:/C:/OSPanel/domains/localhost/elib/resources/views/admin/index.blade.php</file>
+            <file>file:/C:/OSPanel/domains/localhost/elib/resources/views/home.blade.php</file>
+            <file>file:/C:/OSPanel/domains/localhost/elib/app/Http/Controllers/BookUserController.php</file>
+            <file>file:/C:/OSPanel/domains/localhost/elib/resources/views/user/book_takes.blade.php</file>
+            <file>file:/C:/OSPanel/domains/localhost/elib/app/Http/Controllers/BookController.php</file>
+        </group>
+    </open-files>
+</project-private>
